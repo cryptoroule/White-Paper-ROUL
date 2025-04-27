@@ -80,6 +80,6 @@ Don’t miss your chance to join the ROUL ecosystem early.
 
 - 🌍 Website: [cryptoroule.com](https://www.cryptoroule.com/)
 - 🧹 Linktree: [linktr.ee/cryptoroule](https://linktr.ee/cryptoroule)
-- 📣 Telegram: [Join the Community](https://t.me/+sHBkk2AmpFUyODg0)
+- 📣 Telegram: [Join the Community](https://t.me/+f4bf7yjLRIUwYTg8)
 - 🐦 X (Twitter): [@cryptoroule](https://x.com/cryptoroule)
 - 📸 Instagram: [@cryptoroule](https://www.instagram.com/cryptoroule/)
