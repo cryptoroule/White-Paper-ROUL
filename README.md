@@ -37,16 +37,20 @@ Our mission: **Make crypto simple, accessible, and profitable.**
 
 ## 💸 Token Allocation
 
-| Category                 | Allocation     | Amount          |
-|--------------------------|----------------|-----------------|
-| Pre-Sale                 | 10%            | 10,000,000 ROUL |
-| DEX Liquidity            | 20%            | 20,000,000 ROUL |
-| Staking & Rewards        | 15%            | 15,000,000 ROUL |
-| Education & Training     | 15%            | 15,000,000 ROUL |
-| Team & Partnerships      | 10%            | 10,000,000 ROUL |
-| DAO & Community          | 10%            | 10,000,000 ROUL |
-| Long-Term Reserve        | 10%            | 10,000,000 ROUL |
-| Airdrop / Marketing      | 5%             | 5,000,000 ROUL  |
+
+| Category (Allocation)         | Percentage (%) | Amount (ROUL)       |
+|------------------------------|----------------|----------------------|
+| 🪙 Presale                   | 5 %            | 5,000,000 ROUL       |
+| 💧 PancakeSwap Liquidity     | 3 %            | 3,000,000 ROUL       |
+| 🔁 DEX Platforms             | 20 %           | 20,000,000 ROUL      |
+| 🏛️ CEX Platforms             | 30 %           | 30,000,000 ROUL      |
+| 🏆 Rewards & Education       | 15 %           | 15,000,000 ROUL      |
+| 🏦 Long-term Reserve         | 10 %           | 10,000,000 ROUL      |
+| 🛡️ Team & Partnerships       | 10 %           | 10,000,000 ROUL      |
+| 🤝 Community & Initiatives   | 7 %            | 7,000,000 ROUL       |
+
+
+
 
 ---
 
