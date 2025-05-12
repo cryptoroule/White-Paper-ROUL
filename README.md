@@ -1,82 +1,81 @@
 # 🚀 ROUL Token – Official White Paper
 
-Welcome to the official repository of **ROUL**, a next-gen crypto project focused on education, empowerment, and long-term financial growth through decentralized finance (DeFi).
+Welcome to the official repository of **ROUL Token**, powering **CryptoRoule** — a next-generation crypto learning ecosystem built on **education**, **gamification**, and **Web3 rewards**.
+
+At the center of it all: **ROULE**, our crypto hero, traveling across the universe to spread blockchain knowledge.
 
 ---
 
 ## 📘 Download the White Paper
 
 - 🇬🇧 [White Paper (English)](https://github.com/cryptoroule/White-Paper-ROUL/blob/main/White%20Paper%20ROUL%20EN.pdf)
-- 🇫🇷 [White Paper (French)](https://github.com/cryptoroule/White-Paper-ROUL/blob/main/White%20Paper%20ROUL%20FR.pdf)
 
-These documents explain our vision, roadmap, tokenomics, and the complete strategic plan.
+These documents explain our vision, roadmap, tokenomics, NFT integration, staking mechanics, and our full strategic plan.
 
 ---
 
-## 🧀 What is ROUL?
+## 🧠 What is ROUL?
 
-ROUL is more than just a token — it's a gateway to a full crypto-learning experience.  
-We provide premium online training, real-world use cases, and exclusive investment opportunities to help new and intermediate investors **grow their capital with confidence**.
+**ROUL** is a utility token designed to educate, empower, and reward the next generation of crypto investors.  
+Through **training missions**, **NFT adventures**, and **staking rewards**, we make crypto **simple**, **accessible**, and **fun**.
 
-Our mission: **Make crypto simple, accessible, and profitable.**
+Our mission: **Learn. Earn. Empower.**
 
 ---
 
 ## 🔑 Key Highlights
 
-- ✅ **Educative Token** – Learn and earn with our full ecosystem of training and tools.
+- ✅ **Utility Token** – Earn rewards through staking and NFT ownership
+- 🎨 **ROULE NFT Collection** – Unlock exclusive missions and bonuses
+- 💸 **Flexible and Fixed Staking Plans** (Flexible, 30d, 60d, 90d)
 - 💰 **Pre-Sale Price**: 0.01€
 - 🎯 **Target Price After Launch**: 0.03€
 - 📊 **Total Supply**: 100,000,000 ROUL
-- 🔑 **KYC & Smart Contract Audit Validated by [Coinsult](https://coinsult.net/projects/cryptoroule-coin/)**
-- 📈 **Liquidity Locked on PancakeSwap**
-- 💬 **Private Telegram group for holders**
-- 🧀 **Access to exclusive crypto coaching**
+- 🔒 **Liquidity Locked** on PancakeSwap
+- 🔑 **KYC & Smart Contract Audit by [Coinsult](https://coinsult.net/projects/cryptoroule-coin/)**
+- 🛡️ **DAO Governance** – Coming soon
+- 📣 **Exclusive Access to Private Crypto Coaching for Holders**
 
 ---
 
 ## 💸 Token Allocation
 
-
-| Category (Allocation)         | Percentage (%) | Amount (ROUL)       |
-|------------------------------|----------------|----------------------|
-| 🪙 Presale                   | 5 %            | 5,000,000 ROUL       |
-| 💧 PancakeSwap Liquidity     | 3 %            | 3,000,000 ROUL       |
-| 🔁 DEX Platforms             | 20 %           | 20,000,000 ROUL      |
-| 🏛️ CEX Platforms             | 30 %           | 30,000,000 ROUL      |
-| 🏆 Rewards & Education       | 15 %           | 15,000,000 ROUL      |
-| 🏦 Long-term Reserve         | 10 %           | 10,000,000 ROUL      |
-| 🛡️ Team & Partnerships       | 10 %           | 10,000,000 ROUL      |
-| 🤝 Community & Initiatives   | 7 %            | 7,000,000 ROUL       |
-
-
-
+| Category (Allocation)        | Percentage (%) | Amount (ROUL)        |
+|-------------------------------|----------------|----------------------|
+| 🪙 Presale                    | 5%              | 5,000,000 ROUL        |
+| 💧 PancakeSwap Liquidity       | 3%              | 3,000,000 ROUL        |
+| 🔁 DEX Listings                | 20%             | 20,000,000 ROUL       |
+| 🏛️ CEX Listings                | 30%             | 30,000,000 ROUL       |
+| 🏆 Staking Rewards             | 20%             | 20,000,000 ROUL       |
+| 🎨 NFT Community & Airdrops    | 7%              | 7,000,000 ROUL        |
+| 🛡️ Team & Partnerships         | 10%             | 10,000,000 ROUL       |
+| 🤝 Community Initiatives       | 5%              | 5,000,000 ROUL        |
 
 ---
 
 ## 🔐 Security & Transparency
 
-- ✅ **Team KYC** (validated)
-- ✅ **Smart Contract Audit by Coinsult** — [View Audit](https://coinsult.net/projects/cryptoroule-coin/)
-- 🔒 **Liquidity Lock on PancakeSwap**: $12,000  
-- 📄 **All documents are public and open-source**
+- ✅ **KYC Verified** (Founder identity approved)
+- ✅ **Smart Contract Audited by Coinsult** — [View Audit](https://coinsult.net/projects/cryptoroule-coin/)
+- 🔒 **Liquidity Locked on PancakeSwap**: $12,000
+- 📄 **Fully transparent documentation and source code**
 
 ---
 
-## 🗕️ Version History
+## 📅 Version History
 
-- **April 2025** – Initial white paper release (EN & FR)
-- **Q2 2025** – Audit Report & Lightpaper
-- **Q3 2025** – CEX listing strategy
+- **April 2025** – Initial White Paper Release (EN & FR)
+- **Q2 2025** – Launch of Staking Platform and NFT Collection (Phase 1)
+- **Q3 2025** – DAO Governance Activation and CEX Listing Strategy
 
 ---
 
 ## 🌐 Join the Pre-Sale
 
-Don’t miss your chance to join the ROUL ecosystem early.  
-**Pre-sale live soon on [PinkSale](https://www.pinksale.finance)**.
+Don’t miss your opportunity to be part of the ROULverse.  
+**Public Presale live soon on [PinkSale](https://www.pinksale.finance).**
 
-> Be early. Be educated. Be in control.
+> Be early. Be educated. Be empowered. 🚀
 
 ---
 
