@@ -73,7 +73,7 @@ Our mission: **Learn. Earn. Empower.**
 ## 🌐 Join the Pre-Sale
 
 Don’t miss your opportunity to be part of the ROULverse.  
-**Public Presale live soon on [PinkSale](https://www.pinksale.finance).**
+**Public Presale live soon on [GEMPAD]([https://www.pinksale.finance](https://gempad.app/presale/0x366A02f363fe32b9A1A873dac35a057ebbeCB4B8?network=BNB_Smart_Chain)).**
 
 > Be early. Be educated. Be empowered. 🚀
 
