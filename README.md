@@ -25,20 +25,19 @@ Our mission: **Learn. Earn. Empower.**
 
 ## 🔑 Key Highlights
 
-- ✅ **Utility Token** – Earn rewards through staking and NFT ownership
+- ✅ **Utility Token** – Earn rewards through NFT ownership
 - 🎨 **ROULE NFT Collection** – Unlock exclusive missions and bonuses
-- 💸 **Flexible and Fixed Staking Plans** (Flexible, 30d, 60d, 90d)
-- 💰 **Pre-Sale Price**: 0.01€
-- 🎯 **Target Price After Launch**: 0.03€
+- 💰 **Pre-Sale Price**: 0.00022€
+- 🎯 **Target Price After Launch**: 0.00052€
 - 📊 **Total Supply**: 100,000,000 ROUL
-- 🔒 **Liquidity Locked** on PancakeSwap
+- 🔒 **Liquidity Locked** on PancakeSwap and GEMPAD (28M)
 - 🔑 **KYC & Smart Contract Audit by [Coinsult](https://coinsult.net/projects/cryptoroule-coin/)**
 - 🛡️ **DAO Governance** – Coming soon
-- 📣 **Exclusive Access to Private Crypto Coaching for Holders**
+- 📣 **Exclusive Access to Private Crypto Training and Coaching for Holders**
 
 ---
 
-## 💸 Token Allocation
+## 💸 Tokenomics
 
 | Category (Allocation)        | Percentage (%) | Amount (ROUL)        |
 |-------------------------------|----------------|----------------------|
@@ -58,7 +57,7 @@ Total Supply : 100,000,000 ROUL
 
 - ✅ **KYC Verified** (Founder identity approved)
 - ✅ **Smart Contract Audited by Coinsult** — [View Audit](https://coinsult.net/projects/cryptoroule-coin/)
-- 🔒 **Liquidity Locked on PancakeSwap**: $12,000
+- 🔒 **Liquidity Locked on PancakeSwap**: $40,000
 - 📄 **Fully transparent documentation and source code**
 
 ---
