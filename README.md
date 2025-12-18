@@ -42,14 +42,15 @@ Our mission: **Learn. Earn. Empower.**
 
 | Category (Allocation)        | Percentage (%) | Amount (ROUL)        |
 |-------------------------------|----------------|----------------------|
-| 🪙 Presale                    | 5%              | 5,000,000 ROUL        |
-| 💧 PancakeSwap Liquidity       | 3%              | 3,000,000 ROUL        |
-| 🔁 DEX Listings                | 20%             | 20,000,000 ROUL       |
-| 🏛️ CEX Listings                | 30%             | 30,000,000 ROUL       |
-| 🏆 Staking Rewards             | 20%             | 20,000,000 ROUL       |
-| 🎨 NFT Community & Airdrops    | 7%              | 7,000,000 ROUL        |
-| 🛡️ Team & Partnerships         | 10%             | 10,000,000 ROUL       |
+| 🪙 Presale                     | 20%             | 20,000,000 ROUL       |
+| 💧 PancakeSwap Liquidity       | 5%              | 5,000,000 ROUL        |
+| 🔁 DEX Listings                | 15%             | 15,000,000 ROUL       |
+| 🏛️ CEX Listings                | 25%             | 25,000,000 ROUL       |
+| 🏆 Staking Rewards             | 15%             | 15,000,000 ROUL       |
+| 🎨 NFT Community & Airdrops    | 10%             | 10,000,000 ROUL       |
+| 🛡️ Team & Partnerships         | 5%              | 5,000,000 ROUL        |
 | 🤝 Community Initiatives       | 5%              | 5,000,000 ROUL        |
+Total Supply : 100,000,000 ROUL
 
 ---
 
